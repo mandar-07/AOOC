@@ -1,0 +1,9 @@
+1)Addition of Two numbers.
+2)EVEN ODD
+3) grater from Three
+4)Addition of one to Ten numbers
+5)reverse number
+6)prime number.
+7)addition of digits of given number
+8)x^y
+
